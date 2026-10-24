@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.venv/
+build/
+dist/
+datasets/
+experiments/
+results/
+tb_logger/
+wandb/
+pretrained_models/
+*.pth
+*.pt
+*.ckpt

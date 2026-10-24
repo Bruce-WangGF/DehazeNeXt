@@ -1,0 +1,2 @@
+include basicsr/metrics/niqe_pris_params.npz
+include requirements.txt
