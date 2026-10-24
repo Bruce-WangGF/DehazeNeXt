@@ -18,14 +18,7 @@ The dynamic convolution in DLRM uses a CuPy CUDA kernel and requires a CUDA GPU.
 
 ## Checkpoints
 
-Pretrained checkpoints will be distributed separately. They are not included in this source repository.
-
-| Configuration | Width (`dim`) | Checkpoint filename |
-| --- | ---: | --- |
-| B / ITS | 36 | `DehazeNeXt_B_ITS.pth` |
-| B / OTS | 36 | `DehazeNeXt_B_OTS.pth` |
-| L / ITS | 72 | `DehazeNeXt_L_ITS.pth` |
-| L / OTS | 72 | `DehazeNeXt_L_OTS.pth` |
+Pretrained checkpoints: [Google Drive folder](https://drive.google.com/drive/folders/1H-JtuX5UcpYQSNmOewT09hFyW1u-Au6v).
 
 ## Training
 
